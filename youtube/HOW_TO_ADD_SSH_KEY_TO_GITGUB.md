@@ -7,3 +7,4 @@ ssh-keygen
 ![](images/create-key.png)
 
 #### Step 02: Configure newly created ssh key in ssh config file
+![](images/config-git.png)
