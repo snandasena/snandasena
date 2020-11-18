@@ -4,3 +4,4 @@
 mkdir $HOME/gitkeys
 ssh-keygen
 ```
+![](images/create-key.png)
