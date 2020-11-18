@@ -6,5 +6,12 @@ ssh-keygen
 ```
 ![](images/create-key.png)
 
-#### Step 02: Configure newly created ssh key in ssh config file
+#### Step 02: Configure newly created ssh key in ssh config file. Following is my sample config
+```
+host github.com
+HostName github.com
+IdentityFile ~/gitkeys/new_key
+User git
+PreferredAuthentications publickey
+```
 ![](images/config-git.png)
