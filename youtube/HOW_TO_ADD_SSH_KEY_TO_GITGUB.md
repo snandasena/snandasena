@@ -1,4 +1,5 @@
 ### How to add new ssh key for your github account
+[Video tutorial](https://youtu.be/DhP2pPJSw6E)
 #### Step 01: Please create a ssh key from your Linux terminal or Git bash in Windows 
 ```
 mkdir $HOME/gitkeys
@@ -15,3 +16,4 @@ User git
 PreferredAuthentications publickey
 ```
 ![](images/config-git.png)
+
