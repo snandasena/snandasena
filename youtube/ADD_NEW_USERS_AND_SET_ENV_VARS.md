@@ -5,6 +5,12 @@
 # sudo adduser <username>
 sudo adduser tmpuser
 ```
+#### How to switch between users
+```
+# su <username>
+su tmpuser
+```
+
 ![](images/add_new_linux_user.png)
 
 #### Delete a existing user in Ubuntu
