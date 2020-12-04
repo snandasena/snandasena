@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![](linkedin.png)](https://www.linkedin.com/in/sajithnandasena/)
-[![](linkedin.png)](https://www.linkedin.com/in/sajithnandasena/)
+[![](youtube.png)](https://www.youtube.com/channel/UCINm9Ndbq6515C4VXxBX5pA)
 
