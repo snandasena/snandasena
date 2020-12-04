@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Website](https://minitechtips.blogspot.com)
+[![](linkedin.png)](https://www.linkedin.com/in/sajithnandasena/)
