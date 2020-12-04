@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![](linkedin.png)](https://www.linkedin.com/in/sajithnandasena/) 
-[![](youtube.png)](https://www.youtube.com/channel/UCINm9Ndbq6515C4VXxBX5pA) 
-[![](me.png)](https://minitechtips.blogspot.com)
+[![LinkedIn](linkedin.png)](https://www.linkedin.com/in/sajithnandasena/) 
+[![YouTube](youtube.png)](https://www.youtube.com/channel/UCINm9Ndbq6515C4VXxBX5pA) 
+[![Website](me.png)](https://minitechtips.blogspot.com)
 
