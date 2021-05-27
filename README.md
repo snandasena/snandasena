@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 <div>
   <div>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=snandasena&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 50%;"/>
-<!--     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=snandasena&layout=compact&langs_count=8&theme=algolia" style="max-width: 50%;"/> -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snandasena&layout=compact&theme=algolia" style="max-width: 50%;"/>
   </div>
 </div>
