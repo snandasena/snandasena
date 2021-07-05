@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 
 [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/sajithnandasena/) 
 [![YouTube](youtube.png)](https://www.youtube.com/channel/UCINm9Ndbq6515C4VXxBX5pA) 
-[![Website](me.png)](https://minitechtips.blogspot.com)
+[![Website](me.png)](https://webbotlabs.blogspot.com)
 
