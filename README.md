@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 </a>
 </p>
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snandasena" ></img>
 
 [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/sajithnandasena/) 
 [![YouTube](youtube.png)](https://www.youtube.com/channel/UCINm9Ndbq6515C4VXxBX5pA) 
