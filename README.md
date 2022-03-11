@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div>
   <div>
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=snandasena&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 50%;"/>
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=snandasena" style="max-width: 100%;"/>
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=snandasena" style="max-width: 50%;"/>
   </div>
 </div>
 </a>
